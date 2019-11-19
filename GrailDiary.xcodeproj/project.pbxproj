@@ -9,9 +9,9 @@
 /* Begin PBXBuildFile section */
 		11F8291E237F90C400459CAB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11F8291D237F90C400459CAB /* AppDelegate.swift */; };
 		11F82920237F90C400459CAB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11F8291F237F90C400459CAB /* SceneDelegate.swift */; };
-		11F82922237F90C400459CAB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11F82921237F90C400459CAB /* ViewController.swift */; };
+		11F82922237F90C400459CAB /* POIsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11F82921237F90C400459CAB /* POIsTableViewController.swift */; };
 		11F82925237F90C400459CAB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11F82923237F90C400459CAB /* Main.storyboard */; };
-		11F82927237F90CF00459CAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11F82926237F90CF00459CAB /* Assets.xcassets */; };
+		11F82927237F90CF00459CAB /* Iceland - Winter in Resources */ = {isa = PBXBuildFile; fileRef = 11F82926237F90CF00459CAB /* Iceland - Winter */; };
 		11F8292A237F90CF00459CAB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11F82928237F90CF00459CAB /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -19,9 +19,9 @@
 		11F8291A237F90C400459CAB /* GrailDiary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GrailDiary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11F8291D237F90C400459CAB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		11F8291F237F90C400459CAB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		11F82921237F90C400459CAB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		11F82921237F90C400459CAB /* POIsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POIsTableViewController.swift; sourceTree = "<group>"; };
 		11F82924237F90C400459CAB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		11F82926237F90CF00459CAB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		11F82926237F90CF00459CAB /* Iceland - Winter */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Iceland - Winter"; sourceTree = "<group>"; };
 		11F82929237F90CF00459CAB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		11F8292B237F90CF00459CAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,9 +58,9 @@
 			children = (
 				11F8291D237F90C400459CAB /* AppDelegate.swift */,
 				11F8291F237F90C400459CAB /* SceneDelegate.swift */,
-				11F82921237F90C400459CAB /* ViewController.swift */,
+				11F82921237F90C400459CAB /* POIsTableViewController.swift */,
 				11F82923237F90C400459CAB /* Main.storyboard */,
-				11F82926237F90CF00459CAB /* Assets.xcassets */,
+				11F82926237F90CF00459CAB /* Iceland - Winter */,
 				11F82928237F90CF00459CAB /* LaunchScreen.storyboard */,
 				11F8292B237F90CF00459CAB /* Info.plist */,
 			);
@@ -126,7 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				11F8292A237F90CF00459CAB /* LaunchScreen.storyboard in Resources */,
-				11F82927237F90CF00459CAB /* Assets.xcassets in Resources */,
+				11F82927237F90CF00459CAB /* Iceland - Winter in Resources */,
 				11F82925237F90C400459CAB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				11F82922237F90C400459CAB /* ViewController.swift in Sources */,
+				11F82922237F90C400459CAB /* POIsTableViewController.swift in Sources */,
 				11F8291E237F90C400459CAB /* AppDelegate.swift in Sources */,
 				11F82920237F90C400459CAB /* SceneDelegate.swift in Sources */,
 			);
